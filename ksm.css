@@ -1,6 +1,6 @@
 /* Ksm theme css */
-form .hide-required p.error, form ul #fo221li143 p.error  {
-   padding-bottom: 9px;
+form li.hide-required p.error, form ul #fo221li143 p.error  {
+   padding-bottom: 9px !important;
 }
 
 form ul #fo221li143 {
