@@ -1,5 +1,8 @@
 /* Ksm theme css */
-
+.hide-required {
+    padding-bottom: 0;
+    padding-top: 0;
+}
 .hide-required legend{
     display: none !important;
 }
