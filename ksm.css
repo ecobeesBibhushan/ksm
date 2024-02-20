@@ -1,9 +1,5 @@
 /* Ksm theme css */
 
-#title744, #title143, #title244 {
-    display: none !important;
-}
-
 .hide-required legend{
     display: none !important;
 }
